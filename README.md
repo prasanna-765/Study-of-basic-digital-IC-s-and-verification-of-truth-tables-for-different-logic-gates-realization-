@@ -65,13 +65,16 @@ Developed by: Prasanna A
 RegisterNumber: 23005675 
 
 Logic symbol & Truthtable
+
 ![image](https://github.com/prasanna-765/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/150009505/6116bbe2-083e-4529-9da7-2a43adf6e5a5)
 
 RTL realization
+
 ![image](https://github.com/prasanna-765/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/150009505/8ab8c9e5-477b-4043-8580-b0e25dedb473)
 
 Output:
 RTL
+
 ![image](https://github.com/prasanna-765/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/150009505/1f9724e5-336a-46a9-9d1f-4d6217a44e41)
 
 
